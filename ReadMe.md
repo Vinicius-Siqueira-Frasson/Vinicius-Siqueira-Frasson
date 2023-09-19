@@ -7,7 +7,7 @@ that i have a bachelor's degree as a chemistry technician (as part of my integra
 and a soon to be bachelor's degree in biological sciences (courtesy of my time studying in the Federal University of Santa Catarina), 
 both completely different sciences, and both having little to nothing in the way of software development and programming.
 
-To wrap-up those degress i mentioned above, I stopped pursuing my careers in both chemistry and biology meanly because after studying them and understanding the career path they offer,
+To wrap-up those degrees i mentioned above, I stopped pursuing my careers in both chemistry and biology meanly because after studying them and understanding the career path they offer,
 I couldn’t see myself working in those fields, or in other words, they just didn’t clicked with me. 
 That being said, I'm grateful for the opportunities i had and think that despite all, I carry a lot of what I learned during that time.
 
