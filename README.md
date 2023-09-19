@@ -7,12 +7,12 @@ that i have a bachelor's degree as a chemistry technician (as part of my integra
 and a soon to be bachelor's degree in biological sciences (courtesy of my time studying in the Federal University of Santa Catarina), 
 both completely different sciences, and both having little to nothing in the way of software development and programming.
 
-So just to elaborate a little further on my education and why i have such a diverse set of skills, I stopped pursuing my careers in both chemistry and biology 
-meanly because after studying them and understanding the career path they offer, I couldn’t see myself working in that field, or in other words, 
-they just didn’t clicked with me. But still, I'm grateful for the opportunities they gave me and think that despite all, I carry a lot of what I learned with them.
+To wrap-up those degress i mentioned above, I stopped pursuing my careers in both chemistry and biology meanly because after studying them and understanding the career path they offer,
+I couldn’t see myself working in those fields, or in other words, they just didn’t clicked with me. 
+That being said, I'm grateful for the opportunities i had and think that despite all, I carry a lot of what I learned during that time.
 
-Alas, by the lower half of a year I been interested in programming, and in that time i’ve been familiarized myself with the language Lua, and web design in general 
-(CSS3 AND HTML5), thanks to a course by CPDI (Committee for democratization of information), soon learning Java with them as well. 
-But that’s only the beginning, because I intend on continuing my studies in any way possible.
+Alas, while serching for new carrer options I took a interested in programming, and since then i’ve familiarized myself with the language Lua, and web design (CSS3 AND HTML5), 
+thanks to a course by CPDI (Committee for democratization of information), soon learning Java with them as well. 
+But that’s only the beginning, because I intend on continuing my studies in other ways.
 
-In conclusion, I'm excited to enter the market, having high expectations in my abilities and capabilities as a promising up-and-coming developer.
+So in conclusion, I'm excited to enter the market, having high expectations in my abilities and capabilities as a promising up-and-coming developer.
